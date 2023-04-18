@@ -1,2 +1,1 @@
-# TestGit
-testgit
+# git-course
